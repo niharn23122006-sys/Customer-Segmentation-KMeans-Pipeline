@@ -11,7 +11,7 @@ An end-to-end unsupervised machine learning solution providing algorithmic consu
 ## 📊 Optimization & Results
 The framework tested iterations between K=2 and K=10. Cross-examination of the variance curve inflection against maximum silhouette density pinpointed the optimal breakdown structure.
 ### 🪐 Final 3D Cluster Mapping
-![Customer Segments 3D Visual Map](outputs/customer_clusters_3d.jpg)
+![Customer Segments 3D Visual Map](outputs/customer_clusters_3d.png)
 
 All technical validation charts, data assignments, and distribution heatmaps are automatically generated and saved under the `outputs/` directory.
 
